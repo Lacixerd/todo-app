@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TodoApp",
+            "request": "launch",
+            "mainClass": "com.todo.app.TodoApp",
+            "vmArgs": "--module-path \"C:\\Program Files\\JavaFX\\javafx-sdk-25.0.3\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
