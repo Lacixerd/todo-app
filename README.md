@@ -59,7 +59,7 @@ src/
     │   └── TaskListPanel.java   ← task list with custom rendering
     └── Main.java                ← entry point
 ```
-
+ 
 ## Features
 
 - Add task with title and priority (LOW / MEDIUM / HIGH)
